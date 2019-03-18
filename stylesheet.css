@@ -1,0 +1,42 @@
+head{ 
+    
+}
+h1 {
+    color: silver;
+}
+h2 { font: size 22%;
+    color:silver;
+}
+h3 {
+    color: Navy;
+}
+header { 
+    color:lightslategray;
+}
+title {
+    color: grey;
+} 
+
+body { color:silver;
+    background-image: linear-gradient( #00CCFF,#000066);
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+article{}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+  section{}
+aside {color:silver;
+    background-image: linear -moz-linear-gradient(#000066),#00CCFF)
+}
+nav {color: silver;
+    background-image: linear-gradient( #00CCFF,#000066);
+    
+}
+footer {color:silver;
+    background-image: linear-gradients(turquoise, navy)
+}

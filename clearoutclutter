@@ -1,0 +1,81 @@
+ <div> Latest News 
+
+          </div>
+              <nav>
+                <ul>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Our team</a></li>
+                  <li><a href="#">Projects</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+
+
+    <body class="main" img src="morpheus-den-gradient" no repeat height=100% width= 100% >
+            
+       <ul>  
+        <li>Latest News</li> 
+        <li>Cometitions</li> 
+        <li>Shop</li> 
+        <li>Shop</li> 
+        <li>Shop</li> 
+        <li>Shop</li> 
+                </ul> 
+                   <button type="button" class="btn blue-gradient">"Primary"</button>
+                   <button type="button" class="btn blue-gradient">"second button gradient"<General/button>
+                   
+        <aside align="right">
+                <div>2018/2019 Join or Renew Membership </div>
+                <div> Shop </div>
+
+<h1> Contact Us </h1>
+
+<p>   <ul>  
+                <li> <b><Find Us>/<b></Find></li> 
+                <img src="Resources/location icon.svg" witdh="80px" height="80px" <a href="https://www.google.com/maps/place/Bellingham+Leisure+Centre/@51.43241,-0.021803,17z/data=!3m1!4b1!4m5!3m4!1s0x4876021fc04cf7a3:0x2d8e0abc9cb70743!8m2!3d51.43241!4d-0.019609"></a> 
+                <img src:""
+                <Address> Bellingham Leisure and Lifestyle Centre,</br> 5 Randlesdown Road, </br> Bellingham, </br> London SE6 3BT</Address> 
+                <img src="https://www.facebook.com/pg/LadywellGC/about/?ref=page_internal">
+
+                <li>Connect with Us</li>
+                        
+                <a href="/https://www.facebook.com/pg/LadywellGC/about/?ref=page_internal" ></a>              
+                <li>Talk to Someone</li> 
+                <li>Drop us a Line</li> 
+                <li>Have a Question?</li> 
+               
+                        </ul></p>
+
+
+        </aside>
+    <article> start article
+         <section0>    section zero
+
+                        info for section one 
+                <button type="button" class="btn blue-gradient-">fiona</button>
+        unordered list <ul>
+        <li>  Why Gymnastics    </li>
+        <li>  Join membership    </li>
+        <li>  Competitions       </li>
+        <li>  Shop              </li>
+  
+                                </ul>                                  
+                                         </section0>
+
+        <section1>              section1         </section1>
+</hr>
+        <section2> section2 Membership 2018/2019 Join or Renew       </section2>
+</hr>
+        <section3> section 3Buy Goodies from our Shop </section3>
+        <section4><a href="#" target="_blank">Link</a></section4>
+
+                end article    
+                </div> <center>
+        <a class= "btn btn-primary btn-lg" href="#" role="button">About us</a> 
+        <a class="btn btn-primary btn-lg" href="#" role="button">Why Gymnastics?</a> 
+        <a class="btn btn-primary btn-lg" href="#" role="button"> Join Membership </a>
+        <a class="btn btn-primary btn-lg" href="#" role="button">Latest News</a>
+        <a class="btn btn-primary btn-lg" href="#" role="button">Competitions</a>
+        <a class="btn btn-primary btn-lg" href="#" role="button">Shop</a> 
+        <a class="btn btn-primary btn-lg" href="#" role="button">Contact Us</a>
+</align center></center>
+      </div>
