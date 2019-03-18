@@ -1,3 +1,74 @@
+.MainContent, .SideColumn{ 
+   
+    border: 1px solid black;
+}
+.margin{ 
+    margin: 3em;
+}
+.carousel{
+    width:75% ;
+
+}
+
+.intro {
+margin: 0 6em 0 6em;
+}
+.introTitle {
+
+}
+.callToAction
+{
+
+background: -webkit-linear-gradient(-122deg, rgb(0, 204, 255), rgb(0, 0, 102));
+background: linear-gradient(-122deg, rgb(0, 204, 255), rgb(0, 0, 102));  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
 head{ 
     
 }
@@ -40,3 +111,4 @@ nav {color: silver;
 footer {color:silver;
     background-image: linear-gradients(turquoise, navy)
 }
+*/
