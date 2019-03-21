@@ -1,4 +1,6 @@
-.MainContent, .SideColumn{ 
+.MainContent, .SideColumn{ background: -webkit-linear-gradient(-122deg, rgb(0, 204, 255), rgb(0, 0, 102));
+    background: linear-gradient(-122deg, rgb(0, 204, 255), rgb(0, 0, 102));  
+text-color: cyan    
    
     border: 1px solid black;
 }
@@ -19,10 +21,13 @@ margin: 0 6em 0 6em;
 .callToAction
 {
 
-background: -webkit-linear-gradient(-122deg, rgb(0, 204, 255), rgb(0, 0, 102));
-background: linear-gradient(-122deg, rgb(0, 204, 255), rgb(0, 0, 102));  
-
+.nav: {
+    background: -webkit-linear-gradient(-122deg, rgb(0, 204, 255), rgb(0, 0, 102));
+background: linear-gradient(-122deg, rgb(0, 204, 255), rgb(0, 0, 102)); 
 }
+
+
+
 
 
 
